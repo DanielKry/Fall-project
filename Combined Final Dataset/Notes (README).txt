@@ -1,3 +1,0 @@
-This is the final dataset used for training, 
-which comprises a combination of GTA V and 
-real-life data.
